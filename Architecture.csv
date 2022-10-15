@@ -1,0 +1,71 @@
+Institute ID,Name,City,State,Score,TLR,RPC,GO,OI,PERCEPTION,Year,Year_rank
+IR-A-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,82.65,82.49,88.84,90.67,74.01,63.55,2021,1
+IR-A-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,76.5,91.68,43.78,85.63,67.36,71.96,2021,2
+IR-A-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,76.14,68.94,85.19,88.69,67.83,70.01,2021,3
+IR-A-U-0116,"School of Planning and Architecture, New Delhi",New Delhi,Delhi,70.12,75.2,31.57,80.98,75.28,100.0,2021,4
+IR-A-U-0127,Centre for Environmental Planning and Technology University,Ahmedabad,Gujarat,66.77,71.22,56.72,81.66,59.58,46.52,2021,5
+IR-A-U-0626,School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,65.58,72.29,36.87,83.11,76.81,49.89,2021,6
+IR-A-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,65.14,55.14,58.58,83.14,62.52,84.95,2021,7
+IR-A-U-0627,School of Planning & Architecture,Vijayawada,Andhra Pradesh,64.27,79.85,8.38,82.65,71.24,70.01,2021,8
+IR-A-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,61.76,72.8,41.0,65.59,60.2,53.0,2021,9
+IR-A-U-0108,Jamia Millia Islamia,New Delhi,Delhi,57.23,65.08,4.88,88.43,72.26,53.0,2021,10
+IR-A-C-43708,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,57.02,62.9,28.13,80.76,54.3,46.52,2021,11
+IR-A-U-0379,Lovely Professional University,Phagwara,Punjab,56.12,59.81,36.71,65.4,59.23,58.61,2021,12
+IR-A-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,55.24,47.15,49.62,86.9,44.35,46.52,2021,13
+IR-A-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,55.21,60.22,42.07,60.51,59.6,46.52,2021,14
+IR-A-C-57952,BMS College of Arhitecture,Bengaluru,Karnataka,54.99,68.59,2.59,85.0,57.43,42.86,2021,15
+IR-A-U-0747,Chandigarh University,Mohali,Punjab,54.41,68.93,6.46,82.75,72.71,17.26,2021,16
+IR-A-U-0334,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,53.93,58.81,38.93,61.06,69.69,34.41,2021,17
+IR-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education, Manipal",Udupi,Karnataka,53.78,63.81,0.37,79.39,70.07,53.0,2021,18
+IR-A-C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,52.53,53.47,25.14,75.74,48.44,61.15,2021,19
+IR-A-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,52.42,55.66,33.18,71.04,63.75,29.44,2021,20
+IR-A-U-0373,Chitkara University,Rajpura,Punjab,51.81,66.92,5.71,79.37,70.81,9.52,2021,21
+IR-A-U-0439,Anna University,Chennai,Tamil Nadu,51.25,45.99,34.89,60.33,51.72,86.32,2021,22
+IR-A-U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,50.11,46.72,44.65,62.91,56.22,42.86,2021,23
+IR-A-U-0201,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,50.1,67.12,0.83,74.57,57.86,23.79,2021,24
+IR-A-U-0461,M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,49.75,62.37,0.95,79.87,52.03,34.41,2021,25
+IR-A-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,80.46,78.58,79.73,91.8,71.71,75.54,2020,1
+IR-A-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,79.75,81.32,85.34,87.15,70.9,56.3,2020,2
+IR-A-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,69.24,89.7,27.93,75.96,66.96,58.79,2020,3
+IR-A-U-0127,Centre for Environmental Planning and Technology University,Ahmedabad,Gujarat,66.68,70.14,43.18,82.53,59.98,74.72,2020,4
+IR-A-U-0116,School of Planning and Architecture,New Delhi,Delhi,65.63,74.58,20.51,73.47,70.15,100.0,2020,5
+IR-A-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,65.05,71.68,62.31,74.67,52.88,37.0,2020,6
+IR-A-U-0626,School of Planning and Architecture,Bhopal,Madhya Pradesh,63.87,79.91,22.57,74.12,73.51,52.25,2020,7
+IR-A-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,60.29,49.63,52.1,83.9,59.37,73.03,2020,8
+IR-A-U-0627,School of Planning and Architecture,Vijayawada,Andhra Pradesh,59.63,74.2,5.2,82.32,68.21,56.3,2020,9
+IR-A-U-0108,Jamia Millia Islamia,New Delhi,Delhi,56.29,66.06,0.67,87.09,78.6,44.47,2020,10
+IR-A-C-43708,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,55.75,57.69,25.46,92.24,54.3,37.0,2020,11
+IR-A-C-46330,Manipal Academy of Higher Education,Udupi,Karnataka,53.11,61.52,0.0,79.85,70.35,54.99,2020,12
+IR-A-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,52.45,51.76,40.71,60.95,60.59,53.64,2020,13
+IR-A-C-57952,BMS College of Arhitecture,Bengaluru,Karnataka,52.18,63.4,0.01,77.67,57.88,54.99,2020,14
+IR-A-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,51.7,56.44,34.3,71.03,55.22,25.28,2020,15
+IR-A-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,51.52,40.68,50.18,88.25,40.73,34.91,2020,16
+IR-A-C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,50.3,47.68,24.6,78.55,51.0,54.99,2020,17
+IR-A-U-0439,Anna University,Chennai,Tamil Nadu,48.73,46.6,25.5,58.1,52.83,80.87,2020,18
+IR-A-U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,48.59,44.44,51.07,59.84,58.42,27.9,2020,19
+IR-A-U-0454,Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,48.5,53.75,19.68,80.14,47.84,22.48,2020,20
+IR-A-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,81.96,73.85,89.49,86.98,75.54,95.66,2019,1
+IR-A-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,78.33,75.4,89.24,82.48,65.01,73.18,2019,2
+IR-A-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,65.52,73.28,41.45,72.07,63.51,71.59,2019,3
+IR-A-U-0116,School of Planning and Architecture New Delhi,New Delhi,Delhi,62.49,68.32,16.7,73.91,72.07,98.32,2019,4
+IR-A-C-43708,College of Engineering,Thiruvananthapuram,Kerala,59.47,64.05,33.13,76.52,54.67,64.5,2019,5
+IR-A-U-0626,School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,58.72,72.46,24.41,61.47,67.35,58.26,2019,6
+IR-A-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,58.65,49.71,50.33,66.74,61.73,91.83,2019,7
+IR-A-U-0108,Jamia Millia Islamia,New Delhi,Delhi,58.07,59.91,24.89,84.16,74.65,48.17,2019,8
+IR-A-U-0627,School of Planning and Architecture Vijayawada,Vijayawada,Andhra Pradesh,57.07,62.11,9.96,84.74,59.74,73.18,2019,9
+IR-A-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,56.62,62.34,36.86,60.55,55.74,66.39,2019,10
+IR-A-C-24004,College of Engineering Visakhapatnam,Visakhapatnam,Andhra Pradesh,55.7,74.84,10.63,76.52,52.7,30.68,2019,11
+IR-A-U-0439,Anna University,Chennai,Tamil Nadu,53.29,50.03,27.53,62.87,51.95,100.0,2019,12
+IR-A-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.17,43.42,46.87,91.54,29.24,42.02,2019,13
+IR-A-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,51.87,60.22,38.13,60.43,45.82,34.81,2019,14
+IR-A-C-57952,BMS College of Architecture,Bengaluru,Karnataka,50.61,64.93,0.01,56.03,58.06,76.21,2019,15
+IR-5-A-OEMAL-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,78.41,69.71,82.84,89.09,69.81,78.51,2018,1
+IR-4-A-OEMA-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,74.24,71.11,77.53,79.42,65.2,72.46,2018,2
+IR-3-A-OEA-U-0116,School of Planning and Architecture New Delhi,New Delhi,Delhi,54.86,67.29,17.9,68.81,59.43,95.97,2018,3
+IR-3-A-EMA-C-43708,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,54.15,59.74,27.46,91.21,41.98,55.51,2018,4
+IR-1-A-A-U-0626,School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,53.1,77.27,19.87,62.37,62.27,52.62,2018,5
+IR-4-A-OEMA-U-0439,Anna University,Chennai,Tamil Nadu,50.83,55.25,24.97,57.82,52.05,100.0,2018,6
+IR-3-A-OEA-C-17029,JNAFAU School of Planning and Architecture,Hyderabad,Telangana,49.82,69.21,10.0,86.52,58.43,29.17,2018,7
+IR-5-A-OEMAL-U-0108,Jamia Millia Islamia,New Delhi,Delhi,49.09,52.07,23.62,75.95,65.73,46.17,2018,8
+IR-3-A-OEA-U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,46.04,48.36,43.82,48.99,51.67,34.11,2018,9
+IR-1-A-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education",Udupi,Karnataka,43.14,59.09,0.0,74.22,65.15,40.57,2018,10

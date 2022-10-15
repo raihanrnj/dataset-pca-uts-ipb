@@ -1,0 +1,326 @@
+Institute ID,Name,City,State,Score,TLR,RPC,GO,OI,PERCEPTION,Year,Year_rank
+IR-P-U-0107,Jamia Hamdard,New Delhi,Delhi,78.52,75.03,82.33,82.36,57.63,90.75,2021,1
+IR-P-U-0078,Panjab University,Chandigarh,Chandigarh,77.99,76.44,80.63,77.42,73.07,80.78,2021,2
+IR-P-U-0391,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,75.57,90.02,61.69,81.75,70.71,66.33,2021,3
+IR-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,Mohali,Punjab,74.52,77.38,61.47,81.56,65.54,100.0,2021,4
+IR-P-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,74.18,80.79,66.1,84.0,52.33,80.78,2021,5
+IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,Hyderabad,Telangana,74.08,79.55,58.82,89.96,71.06,74.72,2021,6
+IR-P-C-35006,JSS College of Pharmacy,Ooty,Tamil Nadu,68.99,83.34,33.64,90.34,73.91,84.38,2021,7
+IR-P-C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",Udupi,Karnataka,67.65,75.73,50.2,74.53,67.9,81.71,2021,8
+IR-P-C-35007,JSS College of Pharmacy,Mysore,Karnataka,65.18,78.93,30.3,89.7,66.85,77.86,2021,9
+IR-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,Gandhinagar,Gujarat,63.3,73.18,51.41,73.85,65.41,46.25,2021,10
+IR-P-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,61.48,73.61,61.77,57.72,59.54,33.82,2021,11
+IR-P-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,61.21,68.19,57.78,68.21,77.63,20.25,2021,12
+IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli,Lucknow,Uttar Pradesh,60.33,86.81,36.87,63.82,63.0,41.71,2021,13
+IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,59.99,80.16,43.19,76.17,61.49,16.03,2021,14
+IR-P-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,58.39,67.92,52.18,69.42,50.86,33.82,2021,15
+IR-P-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,57.86,72.47,48.32,71.64,36.35,36.62,2021,16
+IR-P-C-35430,"Poona College of Pharmacy, Pune",Pune,Maharashtra,55.97,70.91,29.91,73.26,54.99,55.81,2021,17
+IR-P-U-0383,"Punjabi University, Patiala",Patiala,Punjab,55.74,61.26,46.44,68.14,42.2,55.81,2021,18
+IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati,Guwahati,Assam,55.73,67.16,31.6,74.58,57.7,54.07,2021,19
+IR-P-U-0146,Nirma University,Ahmedabad,Gujarat,55.06,64.13,42.21,72.53,52.68,33.82,2021,20
+IR-P-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,54.82,67.44,34.67,70.81,52.0,48.34,2021,21
+IR-P-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,54.21,72.21,24.12,85.5,76.05,6.06,2021,22
+IR-P-U-0379,Lovely Professional University,Phagwara,Punjab,54.2,66.22,54.64,51.34,56.46,20.25,2021,23
+IR-P-U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,53.33,52.8,44.53,74.79,57.91,33.82,2021,24
+IR-P-C-33873,Bombay College of Pharmacy,Mumbai,Maharashtra,53.24,74.55,20.72,63.3,53.68,66.33,2021,25
+IR-P-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,52.34,64.33,31.69,60.37,60.46,54.07,2021,26
+IR-P-U-0162,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,51.28,71.14,31.4,56.51,45.96,46.25,2021,27
+IR-P-C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,51.2,72.88,28.04,70.64,52.04,16.03,2021,28
+IR-P-C-10398,I. S. F. College of Pharmacy,Moga,Punjab,50.77,60.99,31.41,65.18,60.86,39.24,2021,29
+IR-P-I-1450,AU College of Pharmaceutical Sciences,Visakhapatnam,Andhra Pradesh,50.52,52.78,27.59,83.0,42.26,55.81,2021,30
+IR-P-I-1280,Maharshi Dayanand University,Rohtak,Haryana,50.19,59.64,38.87,56.72,49.0,44.04,2021,31
+IR-P-U-0853,Delhi Pharmaceutical Sciences and Research University,Delhi,Delhi,50.08,55.89,18.16,75.54,58.62,68.91,2021,32
+IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata,Kolkata,West Bengal,49.9,80.14,13.74,57.25,63.71,39.24,2021,33
+IR-P-U-0168,Maharishi Markandeshwar,Ambala,Haryana,49.81,59.93,32.19,63.51,53.02,41.71,2021,34
+IR-P-U-0373,Chitkara University,Rajpura,Punjab,49.68,71.61,17.33,62.38,63.48,41.71,2021,35
+IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,49.38,67.81,31.94,65.22,52.9,11.34,2021,36
+IR-P-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",Chennai,Tamil Nadu,49.06,65.26,40.73,49.66,49.2,24.08,2021,37
+IR-P-U-0051,Dibrugarh University,Dibrugarh,Assam,48.89,67.35,29.8,61.27,41.07,33.82,2021,38
+IR-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,48.27,70.16,8.18,73.74,53.97,46.25,2021,39
+IR-P-C-24505,"KLE College of Pharmacy, Belgaum",Belgaum,Karnataka,46.26,68.3,11.36,69.61,60.31,24.08,2021,40
+IR-P-U-0519,Integral University,Lucknow,Uttar Pradesh,45.7,62.12,34.65,46.3,43.33,30.82,2021,41
+IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,45.64,70.01,32.45,53.71,41.62,0.0,2021,42
+IR-P-I-1256,Noida Institute of Engineering and Technology (Pharmacy Institute),Greater Noida,Uttar Pradesh,45.5,63.12,3.19,70.28,56.28,59.1,2021,43
+IR-P-U-0034,Sri Padmavathi Mahila Visvavidyalayam,Tirupathi,Andhra Pradesh,45.4,68.76,24.16,55.53,52.82,11.34,2021,44
+IR-P-C-19322,Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences,Mangaluru,Karnataka,45.39,68.3,16.74,67.04,58.59,6.06,2021,45
+IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,Nagpur,Maharashtra,44.91,66.36,6.38,70.44,53.43,36.62,2021,46
+IR-P-C-409,L. M. College of Pharmacy,Ahmedabad,Gujarat,44.77,69.91,9.39,56.96,51.91,44.04,2021,47
+IR-P-U-0019,Kakatiya University,Hanamkonda,Telangana,44.4,43.2,31.1,64.19,50.97,41.71,2021,48
+IR-P-C-11091,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Kolhapur,Maharashtra,43.74,62.61,16.51,60.25,52.0,27.58,2021,49
+IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,43.34,71.18,11.08,65.57,55.6,0.0,2021,50
+IR-P-U-0747,Chandigarh University,Mohali,Punjab,43.33,69.64,6.86,53.89,75.79,20.25,2021,51
+IR-P-U-0724,M.S. Ramaiah University of Applied Sciences,Bangalore,Karnataka,43.12,65.15,16.04,50.25,59.62,27.58,2021,52
+IR-P-C-34531,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,43.03,64.52,13.57,54.11,51.2,36.62,2021,53
+IR-P-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,42.36,48.39,32.37,56.81,51.65,16.03,2021,54
+IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,Anantapur,Andhra Pradesh,42.16,62.66,5.15,67.3,56.04,27.58,2021,55
+IR-P-C-30858,Goa College of Pharmacy,Panaji,Goa,42.13,66.76,4.22,61.09,52.28,33.82,2021,56
+IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,Bela,Punjab,42.11,60.03,8.18,71.48,62.25,11.34,2021,57
+IR-P-U-0562,"Kumaun University, Nainital",Nainital,Uttarakhand,41.89,61.06,21.79,56.9,50.41,6.06,2021,58
+IR-P-U-0513,G. L. A. University,Mathura,Uttar Pradesh,41.78,64.29,20.05,51.1,46.5,16.03,2021,59
+IR-P-C-40354,Acharya & B M Reddy College of Pharmacy,Bengaluru,Karnataka,41.66,63.5,6.89,67.13,55.05,16.03,2021,60
+IR-P-C-19747,Anurag University,Hyderabad,Telangana,41.28,61.03,4.95,47.64,63.77,55.81,2021,61
+IR-P-C-26904,Sri Venkateswara College of Pharmacy,Chittoor,Andhra Pradesh,41.2,66.16,2.56,70.09,65.6,0.0,2021,62
+IR-P-C-10283,"Chandigarh College of Pharmacy, Landran",Landran,Punjab,40.72,63.61,13.54,51.26,62.01,11.34,2021,63
+IR-P-C-45540,PSG College of Pharmacy,Coimbatore,Tamil Nadu,40.4,57.28,9.66,51.26,52.31,48.34,2021,64
+IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy,Navi Mumbai,Maharashtra,40.26,65.95,11.13,44.32,51.86,30.82,2021,65
+IR-P-C-44200,C.U. Shah College of Pharmacy,Mumbai,Maharashtra,40.13,64.43,5.13,55.98,52.96,27.58,2021,66
+IR-P-U-0413,Mohan Lal Sukhadia University,Udaipur,Rajasthan,39.8,64.44,14.95,53.91,52.13,0.0,2021,67
+IR-P-U-0502,Bundelkhand University,Jhansi,Uttar Pradesh,39.61,65.24,11.09,60.24,46.61,0.0,2021,68
+IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,Kolkata,West Bengal,39.47,63.11,2.72,68.6,48.65,11.34,2021,69
+IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,39.47,64.14,5.47,67.04,51.81,0.0,2021,69
+IR-P-U-0093,Pt. Ravishankar Shukla University,Raipur,Chhattisgarh,39.33,46.84,23.24,65.17,46.66,6.06,2021,71
+IR-P-U-0401,Jaipur National University,Jaipur,Rajasthan,38.7,50.72,27.44,51.75,49.04,0.0,2021,72
+IR-P-C-19613,Vishnu Institute of Pharmaceutical Education and Research,Narsapur,Telangana,38.7,60.18,1.64,46.9,53.74,54.07,2021,72
+IR-P-C-45528,KMCH College of Pharmacy,Coimbatore,Tamil Nadu,38.67,65.27,2.43,52.81,57.84,20.25,2021,74
+IR-P-C-40080,Sri Adichunchanagiri College of Pharmacy,B.G Nagara,Karnataka,38.58,64.78,1.03,59.18,58.66,11.34,2021,75
+IR-P-U-0107,Jamia Hamdard,New Delhi,Delhi,80.5,78.18,85.18,80.85,57.65,95.7,2020,1
+IR-P-U-0078,Panjab University,Chandigarh,Chandigarh,79.8,76.05,83.43,76.47,71.53,95.05,2020,2
+IR-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,Mohali,Punjab,74.73,79.78,61.99,79.53,62.88,100.0,2020,3
+IR-P-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,74.5,79.12,65.11,86.13,53.79,86.32,2020,4
+IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,Hyderabad,Telangana,73.81,81.75,57.7,87.19,65.18,80.23,2020,5
+IR-P-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,72.95,88.39,60.82,74.71,67.95,64.47,2020,6
+IR-P-C-7249,Manipal College of Pharmaceutical Sciences,Udupi,Karnataka,67.42,77.24,44.74,73.25,68.83,93.03,2020,7
+IR-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,Gandhinagar,Gujarat,65.64,84.97,39.56,76.69,66.33,63.08,2020,8
+IR-P-C-35006,JSS College of Pharmacy,Ooty,Tamil Nadu,65.6,77.54,28.53,90.2,73.65,83.81,2020,9
+IR-P-C-35007,JSS College of Pharmacy,Mysore,Karnataka,64.58,76.16,28.41,82.33,68.59,98.82,2020,10
+IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati,Guwahati,Assam,60.45,84.16,30.8,70.57,66.68,51.78,2020,11
+IR-P-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,59.88,72.88,52.84,67.02,37.78,49.89,2020,12
+IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,57.85,77.13,34.25,81.91,60.45,20.0,2020,13
+IR-P-U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,57.68,66.72,42.86,77.34,52.01,41.3,2020,14
+IR-P-U-0436,Amrita School of Pharmacy,Kochi,Kerala,56.82,58.11,53.78,66.3,63.83,36.24,2020,15
+IR-P-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,56.52,66.3,42.3,59.38,60.42,60.15,2020,16
+IR-P-U-0146,Nirma University,Ahmedabad,Gujarat,55.05,62.01,41.58,69.74,52.36,47.9,2020,17
+IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli,LUCKNOW,Uttar Pradesh,54.99,83.31,30.27,53.0,59.59,43.62,2020,18
+IR-P-U-0473,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,54.85,59.2,57.11,51.76,50.28,45.82,2020,19
+IR-P-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,54.54,70.47,26.18,82.42,74.82,15.83,2020,20
+IR-P-U-0497,Amity University Noida,Gautam Budh Nagar,Uttar Pradesh,54.49,67.88,53.39,44.28,59.01,33.46,2020,21
+IR-P-C-35430,"Poona College of Pharmacy, Pune",Pune,Maharashtra,54.44,64.87,28.05,72.51,54.85,65.82,2020,22
+IR-P-U-0383,Punjabi University,Patiala,Punjab,54.29,60.1,47.0,68.05,39.71,45.82,2020,23
+IR-P-C-33873,Bombay College of Pharmacy,Mumbai,Maharashtra,53.37,72.89,22.54,59.3,53.51,75.25,2020,24
+IR-P-C-6370,Delhi Institute of Pharmaceutical Sciences & Research,New Delhi,Delhi,52.13,54.43,23.66,74.93,56.92,80.23,2020,25
+IR-P-I-1486,Sri Ramachandra Institute of Higher Education And Research,Chennai,Tamil Nadu,51.52,68.36,28.66,64.27,52.0,43.62,2020,26
+IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata,Kolkata,West Bengal,51.49,84.16,15.25,61.81,29.98,63.08,2020,27
+IR-P-U-0168,Maharishi Markandeshwar,Ambala,Haryana,51.12,61.05,33.46,62.92,51.91,49.89,2020,28
+IR-P-U-0379,Lovely Professional University,Phagwara,Punjab,50.46,62.85,42.93,50.95,58.07,27.27,2020,29
+IR-P-C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,50.07,71.55,23.01,70.38,52.48,23.79,2020,30
+IR-P-U-0162,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,49.73,69.08,29.6,54.62,46.26,45.82,2020,31
+IR-P-C-10398,I. S. F. College of Pharmacy,Moga,Punjab,49.26,49.6,41.37,61.22,53.75,43.62,2020,32
+IR-P-U-0332,The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,48.67,63.38,27.92,70.05,48.98,23.79,2020,33
+IR-P-I-1450,"AU College of Pharmaceutical Sciences, Andhra University",Visakhapatnam,Andhra Pradesh,48.64,52.45,29.77,65.83,45.03,63.08,2020,34
+IR-P-U-0051,Dibrugarh University,Dibrugarh,Assam,48.45,68.54,33.57,58.84,29.97,30.48,2020,35
+IR-P-I-1280,Maharshi Dayanand University,Rohtak,Haryana,47.86,56.6,35.82,58.7,47.65,36.24,2020,36
+IR-P-C-24505,KLE College of Pharmacy,Belgaum,Karnataka,47.73,68.06,13.55,63.24,64.67,41.3,2020,37
+IR-P-U-0373,Chitkara University,Rajpura,Punjab,47.37,62.88,18.18,64.92,61.89,38.85,2020,38
+IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,45.69,61.66,29.75,66.24,50.11,0.0,2020,39
+IR-P-C-34531,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,45.12,61.95,18.71,55.0,55.61,43.62,2020,40
+IR-P-I-1335,Padmashree Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,44.9,67.23,7.42,63.01,53.2,45.82,2020,41
+IR-P-U-0034,Sri Padmavathi Mahila Visva Vidyalayam,Tirupathi,Andhra Pradesh,44.52,64.33,19.2,61.05,52.52,20.0,2020,42
+IR-P-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",Chennai,Tamil Nadu,44.35,63.09,37.93,45.4,49.6,0.0,2020,43
+IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,44.17,70.73,32.84,46.52,37.95,0.0,2020,44
+IR-P-C-409,L. M. College of Pharmacy,Ahmedabad,Gujarat,44.11,67.11,7.91,52.61,52.29,58.61,2020,45
+IR-P-U-0519,Integral University,Lucknow,Uttar Pradesh,43.79,61.61,33.56,44.13,44.07,20.0,2020,46
+IR-P-C-30858,Goa College of Pharmacy,Panaji,Goa,42.73,67.07,1.12,64.68,52.04,41.3,2020,47
+IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,NAGPUR,Maharashtra,42.62,65.28,4.86,61.75,53.39,38.85,2020,48
+IR-P-C-19322,N.G.S.M.Institute of Pharmaceutical Sciences,Mangaluru,Karnataka,42.46,67.96,9.13,53.04,56.72,30.48,2020,49
+IR-P-I-1256,Noida Institute of Engineering And Technology (Pharmacy Institute),Greater Noida,Uttar Pradesh,42.46,60.62,2.28,67.33,57.5,43.62,2020,49
+IR-P-C-45540,PSG College of Pharmacy,Coimbatore,Tamil Nadu,42.21,57.47,10.5,59.59,53.19,45.82,2020,51
+IR-P-U-0724,M. S. Ramaiah University of Applied Sciences,Bangalore,Karnataka,41.74,64.83,13.29,39.61,60.23,43.62,2020,52
+IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,41.4,63.92,14.81,56.7,48.64,15.83,2020,53
+IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,41.31,58.63,3.56,67.27,50.72,41.3,2020,54
+IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,Anantapur,Andhra Pradesh,41.14,62.47,3.32,61.68,57.14,33.46,2020,55
+IR-P-U-0536,"Sam Higginbottom Institute of Agriculture, Technology & Sciences",Allahabad,Uttar Pradesh,41.05,69.43,27.04,31.87,51.44,5.97,2020,56
+IR-P-I-1243,"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,40.93,63.83,0.81,56.13,53.24,49.89,2020,57
+IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy,Navi Mumbai,Maharashtra,40.64,64.11,10.93,45.05,52.27,38.85,2020,58
+IR-P-U-0093,Pt. Ravishankar Shukla University,Raipur,Chhattisgarh,40.6,46.32,28.61,58.05,45.13,20.0,2020,59
+IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,Bela,Punjab,40.45,59.8,5.95,57.8,64.33,27.27,2020,60
+IR-P-C-6269,NSHM Knowledge Campus,Kolkata,West Bengal,39.65,61.49,4.37,62.24,47.08,27.27,2020,61
+IR-P-C-11091,Bharati Vidyapeeth's College of Pharmacy,Kolhapur,Maharashtra,39.59,54.41,9.56,58.14,41.94,45.82,2020,62
+IR-P-C-33553,Vivekanand Education Society`s College of Pharmacy,Mumbai,Maharashtra,39.41,63.89,10.99,56.35,50.72,5.97,2020,63
+IR-P-I-1289,Acharya Nagarjuna University College of Pharmaceutical Sciences,Guntur,Andhra Pradesh,38.73,52.07,10.7,63.41,44.91,27.27,2020,64
+IR-P-C-44200,C.U.Shah College of Pharmacy,Mumbai,Maharashtra,38.46,63.19,4.34,59.34,52.15,11.19,2020,65
+IR-P-I-1262,Sri Ramakrishna Institute of Paramedical Sciences,Coimbatore,Tamil Nadu,38.17,65.5,0.18,44.39,44.12,51.78,2020,66
+IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,Kolkata,West Bengal,37.9,62.96,2.95,59.31,46.89,15.83,2020,67
+IR-P-C-42167,P. E. Society`s Modern College of Pharmacy,Pune,Maharashtra,37.85,67.49,1.35,51.43,53.3,15.83,2020,68
+IR-P-C-26904,Sri Venkateshwara College of Pharmacy,Chittoor,Andhra Pradesh,37.72,64.49,1.59,56.86,59.21,5.97,2020,69
+IR-P-C-45528,KMCH College of Pharmacy,Coimbatore,Tamil Nadu,37.7,57.42,3.19,51.62,58.36,33.46,2020,70
+IR-P-C-41951,Padamshree Dr. D. Y. Patil College of Pharmacy,Pune,Maharashtra,37.49,60.1,1.52,60.56,53.1,15.83,2020,71
+IR-P-C-54626,Girijananda Chowdhury Institute of Pharmaceutical Science,Guwahati,Assam,37.31,56.49,8.58,60.49,40.97,15.83,2020,72
+IR-P-C-33635,Principal K.M. Kundnani College of Pharmacy,Mumbai,Maharashtra,37.29,57.24,6.55,58.13,54.12,11.19,2020,73
+IR-P-U-0938,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,37.29,68.68,1.95,48.93,51.96,11.19,2020,73
+IR-P-U-0562,"Kumaun University, Nainital",Nainital,Uttarakhand,37.23,59.77,14.22,55.01,34.25,5.97,2020,75
+IR-P-U-0107,Jamia Hamdard,New Delhi,Delhi,78.43,72.99,90.7,76.64,53.42,86.49,2019,1
+IR-P-U-0078,Panjab University,Chandigarh,Chandigarh,78.1,71.04,88.14,72.91,71.22,86.49,2019,2
+IR-P-U-0380,National Institute of Pharmaceutical Education and Research,Mohali,Punjab,74.59,73.5,69.0,82.27,59.19,94.74,2019,3
+IR-P-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,74.32,78.95,69.55,82.04,58.48,75.22,2019,4
+IR-P-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,69.09,79.85,60.57,66.76,68.53,67.6,2019,5
+IR-P-I-1077,National Institute of Pharmaceutical Education and Research,Hyderabad,Telangana,68.29,79.95,55.53,83.48,65.19,44.17,2019,6
+IR-P-C-7249,Manipal College of Pharmaceutical Sciences,Udupi,Karnataka,67.2,77.0,46.32,70.26,70.07,91.5,2019,7
+IR-P-C-35006,JSS College of Pharmacy,Nilgiri,Tamil Nadu,63.17,75.7,24.45,84.2,73.49,89.43,2019,8
+IR-P-N-14,National Institute of Pharmaceutical Education and Research,Gandhinagar,Gujarat,62.1,87.61,31.66,74.53,72.08,42.02,2019,9
+IR-P-C-35007,JSS College of Pharmacy,Mysore,Karnataka,61.33,68.48,31.43,72.43,68.66,100.0,2019,10
+IR-P-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,59.16,71.46,47.17,55.06,52.45,73.18,2019,11
+IR-P-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,57.76,68.78,58.94,51.58,37.83,53.52,2019,12
+IR-P-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,57.4,79.9,35.49,75.21,62.32,15.06,2019,13
+IR-P-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,56.69,53.21,60.62,62.35,50.74,50.03,2019,14
+IR-P-U-0436,Amrita School of Pharmacy,Kochi,Kerala,56.43,56.21,54.34,61.29,51.8,58.26,2019,15
+IR-P-C-35430,Poona College of Pharmacy,Pune,Maharashtra,55.84,66.14,32.5,69.49,54.74,68.78,2019,16
+IR-P-U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,55.07,64.77,40.71,72.64,49.19,39.76,2019,17
+IR-P-U-0383,Punjabi University,Patiala,Punjab,54.67,58.91,52.66,63.69,40.36,44.17,2019,18
+IR-P-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,54.66,70.03,25.6,83.03,74.54,19.07,2019,19
+IR-P-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,53.68,69.97,33.95,58.26,51.8,56.74,2019,20
+IR-P-U-0146,Nirma University,Ahmedabad,Gujarat,53.44,63.55,40.65,62.54,52.49,44.17,2019,21
+IR-P-C-24505,KLE College of Pharmacy,Belgaum,Karnataka,52.04,69.91,20.69,62.49,66.94,56.74,2019,22
+IR-P-C-10398,I. S. F. College of Pharmacy,Moga,Punjab,52.01,55.47,50.58,55.33,49.26,42.02,2019,23
+IR-P-C-33873,Bombay College of Pharmacy,Mumbai,Maharashtra,51.89,65.13,26.65,57.62,48.43,79.92,2019,24
+IR-P-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,51.54,64.5,47.97,37.64,58.5,44.17,2019,25
+IR-P-C-6370,Delhi Institute of Pharmaceutical Sciences & Research,New Delhi,Delhi,51.44,57.57,20.71,73.27,55.01,78.11,2019,26
+IR-P-U-0379,Lovely Professional University,Phagwara,Punjab,50.71,66.55,41.68,48.95,58.4,26.1,2019,27
+IR-P-U-0051,Dibrugarh University,Dibrugarh,Assam,48.79,62.37,36.42,60.26,36.22,34.81,2019,28
+IR-P-U-0332,The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,48.64,60.98,34.15,67.44,43.29,22.73,2019,29
+IR-P-C-33877,SVKM`s Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,47.26,68.86,21.9,66.74,51.7,15.06,2019,30
+IR-P-C-409,L. M. College of Pharmacy,Ahmedabad,Gujarat,47.1,70.28,10.0,56.67,51.8,65.14,2019,31
+IR-P-I-1280,Maharshi Dayanand University,Rohtak,Haryana,46.74,55.05,33.3,58.19,41.74,44.17,2019,32
+IR-P-C-19322,N. G. S. M. Institute of Pharmaceutical Sciences,Mangalore,Karnataka,46.05,64.92,7.43,56.12,59.06,72.13,2019,33
+IR-P-I-1450,AU College of Pharmaceutical Sciences,Visakhapatnam,Andhra Pradesh,45.57,49.85,28.07,59.29,46.72,56.74,2019,34
+IR-P-U-0162,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,44.67,63.56,23.91,47.82,40.49,48.17,2019,35
+IR-P-C-34531,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,44.59,62.99,18.45,44.28,53.33,59.73,2019,36
+IR-P-C-45540,PSG College of Pharmacy,Coimbatore,Tamil Nadu,44.38,54.72,17.59,56.3,53.02,61.15,2019,37
+IR-P-U-0085,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,44.38,72.02,31.57,43.63,35.06,10.62,2019,37
+IR-P-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,44.22,64.79,23.51,41.2,50.68,44.17,2019,39
+IR-P-U-0519,Integral University,Lucknow,Uttar Pradesh,43.31,60.68,31.32,45.76,42.8,22.73,2019,40
+IR-P-U-0168,Maharishi Markandeshwar,Ambala,Haryana,43.2,53.3,29.48,48.17,52.57,34.81,2019,41
+IR-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,43.15,64.35,17.37,61.74,47.76,15.06,2019,42
+IR-P-C-30858,Goa College of Pharmacy,Panaji,Goa,43.07,69.09,0.2,63.76,51.11,44.17,2019,43
+IR-P-U-0373,Chitkara University,Rajpura,Punjab,43.0,63.21,16.16,54.11,57.59,26.1,2019,44
+IR-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences & Research,Pune,Maharashtra,42.0,69.15,5.04,49.19,52.89,46.22,2019,45
+IR-P-U-0034,Sri Padmavathi Mahila Visva Vidyalayam,Tirupathi,Andhra Pradesh,41.66,63.91,16.18,56.1,45.0,19.07,2019,46
+IR-P-I-1243,"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,41.63,59.93,6.15,49.05,49.96,69.92,2019,47
+IR-P-U-0093,Pt. Ravishankar Shukla University,Raipur,Chhattisgarh,41.36,46.73,29.02,57.66,51.9,19.07,2019,48
+IR-P-C-33814,Bharati Vidyapeeth`s College of Pharmacy,Navi Mumbai,Maharashtra,41.2,64.22,12.9,44.44,51.94,39.76,2019,49
+IR-P-I-1289,Acharya Nagarjuna University College of Pharmaceutical Sciences,Guntur,Andhra Pradesh,41.17,55.89,8.49,65.72,45.15,42.02,2019,50
+IR-P-C-39486,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,41.01,59.98,2.48,68.27,51.48,34.81,2019,51
+IR-P-U-0491,VELS Institute of Science Technology & Advanced Studies,Chennai,Tamil Nadu,40.63,61.22,30.02,40.84,45.21,5.64,2019,52
+IR-P-U-0164,Kurukshetra University,Kurukshetra,Haryana,40.18,51.05,24.26,43.19,43.2,46.22,2019,53
+IR-P-C-11091,Bharati Vidyapeeth`s College of Pharmacy,Kolhapur,Maharashtra,39.83,60.97,6.92,55.66,43.53,39.76,2019,54
+IR-P-U-0270,Devi Ahilya Vishwavidyalaya,Indore,Madhya Pradesh,39.33,54.54,14.22,62.62,46.66,15.06,2019,55
+IR-P-U-0536,"Sam Higginbottom Institute of Agriculture, Technology & Sciences",Allahabad,Uttar Pradesh,39.12,67.03,19.37,41.53,43.33,5.64,2019,56
+IR-P-C-26904,Sri Venkateswara College of Pharmacy,Chittoor,Andhra Pradesh,38.84,62.4,2.22,64.29,60.28,5.64,2019,57
+IR-P-I-1262,Sri Ramakrishna Institute of Paramedical Sciences,Coimbatore,Tamil Nadu,38.75,64.38,0.32,41.69,46.1,63.85,2019,58
+IR-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,Kamptee,Maharashtra,38.56,65.12,5.37,55.49,52.53,10.62,2019,59
+IR-P-C-41561,MAEERS Maharashtra Institute of Pharmacy,Pune,Maharashtra,38.17,65.27,7.34,55.76,52.45,0.0,2019,60
+IR-P-C-33635,Principal K.M. Kundanani College of Pharmacy,Mumbai,Maharashtra,38.15,60.43,2.39,58.49,53.3,22.73,2019,61
+IR-P-C-10250,Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of,Rupnagar,Punjab,38.09,57.42,5.55,58.22,56.42,19.07,2019,62
+IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,Anantapur,Andhra Pradesh,37.86,62.4,2.86,50.51,55.67,26.1,2019,63
+IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,Kolkata,West Bengal,37.79,60.85,1.21,55.0,46.88,34.81,2019,64
+IR-P-C-19591,Sultan Ul Uloom College of Pharmacy,Hyderabad,Telangana,37.65,60.42,2.0,65.06,53.57,5.64,2019,65
+IR-P-C-241,B. K. Modi Goverment Pharmacy College,Rajkot,Gujarat,37.24,66.21,2.85,51.69,42.67,19.07,2019,66
+IR-P-C-33553,Vivekanand Education Society`s College of Pharmacy,Mumbai,Maharashtra,37.22,61.44,9.15,47.53,50.25,15.06,2019,67
+IR-P-C-6269,NSHM Knowledge Campus,Kolkata,West Bengal,37.12,60.62,4.34,48.38,44.75,34.81,2019,68
+IR-P-C-41951,Padamshree Dr. D. Y. Patil College of Pharmacy,Pune,Maharashtra,36.97,61.62,1.71,56.33,51.88,15.06,2019,69
+IR-P-I-1339,MVP Samaj`s College of Pharmacy,Nashik,Maharashtra,36.81,62.77,1.12,59.8,51.22,5.64,2019,70
+IR-P-C-40354,Acharya & B M Reddy College of Pharmacy,Bengaluru,Karnataka,36.65,56.54,6.35,35.67,54.78,51.81,2019,71
+IR-P-C-54626,Girijananda Chowdhury Institute of Pharmaceutical Science,Guwahati,Assam,36.62,56.71,7.24,60.55,38.19,15.06,2019,72
+IR-P-C-8257,AL Shifa College of Pharmacy,Kozhikode,Kerala,36.6,59.29,1.9,50.17,50.02,32.1,2019,73
+IR-P-C-42167,P. E. Society`s Modern College of Pharmacy,Pune,Maharashtra,36.44,66.39,2.87,52.2,52.23,0.0,2019,74
+IR-P-C-40298,Al-Ameen College of Pharmacy,Bengaluru,Karnataka,36.25,54.94,11.28,35.76,40.59,51.81,2019,75
+IR-1-P-P-U-0380,National Institute of Pharmaceutical Education and Research Mohali,Mohali,Punjab,78.2,76.32,78.13,81.25,57.18,98.87,2018,1
+IR-5-P-OEMDP-U-0107,Jamia Hamdard,New Delhi,Delhi,77.17,69.51,85.63,84.91,52.57,83.87,2018,2
+IR-6-P-OEMLDP-U-0078,Panjab University,Chandigarh,Chandigarh,76.5,72.85,82.97,81.05,63.93,71.54,2018,3
+IR-3-P-OEP-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,73.69,77.9,71.2,78.92,56.12,75.73,2018,4
+IR-3-P-OEP-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,71.92,76.45,64.98,74.66,71.02,74.72,2018,5
+IR-1-P-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,Hyderabad,Telangana,67.68,80.14,58.75,76.38,56.88,50.45,2018,6
+IR-1-P-P-C-7249,Manipal College of Pharmaceutical Sciences,Udupi,Karnataka,66.31,77.25,45.76,62.9,68.34,100.0,2018,7
+IR-1-P-P-C-33873,Bombay College of Pharmacy,Mumbai,Maharashtra,57.94,71.07,38.85,59.68,47.99,82.19,2018,8
+IR-6-P-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,57.61,75.46,30.96,82.3,59.76,32.43,2018,9
+IR-1-P-P-C-35007,JSS College of Pharmacy,Mysore,Karnataka,57.34,66.54,31.24,58.14,66.69,97.12,2018,10
+IR-1-P-P-C-35430,Poona College of Pharmacy,Pune,Maharashtra,57.11,66.89,39.12,61.71,55.87,73.69,2018,11
+IR-6-P-OEMADP-U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,56.78,65.18,44.61,74.41,52.02,37.72,2018,12
+IR-5-P-OEMAP-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,56.63,70.04,48.43,56.77,57.26,40.13,2018,13
+IR-1-P-P-N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,Gandhinagar,Gujarat,55.95,86.56,16.77,68.82,74.24,37.72,2018,14
+IR-1-P-P-C-35006,JSS College of Pharmacy,Nilgiri,Tamil Nadu,55.67,65.42,26.37,65.92,70.87,78.62,2018,15
+IR-2-P-OP-U-0383,Punjabi University,Patiala,Punjab,53.2,59.83,58.53,53.29,40.76,29.52,2018,16
+IR-4-P-OEMP-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,53.41,68.42,25.73,80.9,66.84,22.99,2018,16
+IR-1-P-P-C-10398,I. S. F. College of Pharmacy,Moga,Punjab,52.15,46.55,63.41,57.52,47.23,29.52,2018,17
+IR-1-P-P-C-436,"Institute of Pharmacy, Nirma University",Ahmedabad,Gujarat,51.64,60.87,38.72,54.93,53.75,53.96,2018,18
+IR-1-P-P-C-6370,Delhi Institute of Pharmaceutical Sciences & Research,New Delhi,Delhi,49.68,60.5,18.73,70.07,50.94,68.09,2018,19
+IR-6-P-OEMDPC-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,49.22,65.79,47.82,39.08,33.08,40.13,2018,20
+IR-3-P-ODP-I-1486,Sri Ramachandra Medical College and Research Institute,Chennai,Tamil Nadu,48.87,66.65,30.83,42.88,53.2,57.2,2018,21
+IR-1-P-P-C-24505,KLE College of Pharmacy,Belgaum,Karnataka,47.82,65.38,17.67,55.79,63.46,53.96,2018,22
+IR-1-P-P-C-409,L. M. College of Pharmacy,Ahmedabad,Gujarat,46.04,66.2,11.07,59.75,53.5,55.61,2018,24
+IR-1-P-P-C-19322,N. G. S. M. Institute of Pharmaceutical Sciences,Mangalore,Karnataka,45.56,61.09,7.31,56.68,72.71,64.33,2018,25
+IR-4-P-MAPC-U-0379,Lovely Professional University,Jalandhar,Punjab,45.42,61.52,35.22,42.5,63.68,15.24,2018,26
+IR-5-P-OEMDP-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,45.33,42.05,50.98,45.91,53.03,29.52,2018,27
+IR-1-P-P-I-1450,"AU College of Pharmaceutical Sciences, Andhra University",Visakhapatnam,Andhra Pradesh,44.43,57.0,21.71,61.65,55.36,29.52,2018,28
+IR-1-P-P-I-1244,"Department of Pharmaceutical Sciences, Dibrugarh University",Dibrugarh,Assam,44.42,58.98,30.19,58.93,29.26,29.52,2018,29
+IR-4-P-OEMP-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,44.22,63.86,22.34,58.79,50.8,15.24,2018,30
+IR-1-P-P-C-45540,PSG College of Pharmacy,Coimbatore,Tamil Nadu,43.62,49.31,22.77,50.73,52.85,65.62,2018,31
+IR-1-P-P-C-33877,SVKM`s Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,43.26,57.12,20.17,66.99,51.45,15.24,2018,32
+IR-6-P-OEMALP-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,43.03,54.02,35.54,36.42,56.36,32.43,2018,33
+IR-1-P-P-C-34531,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,42.59,60.96,21.21,46.02,52.19,35.16,2018,34
+IR-5-P-OEMLP-U-0085,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,42.58,69.88,30.9,37.6,48.28,0.0,2018,35
+IR-6-P-OEMADP-U-0519,Integral University,Lucknow,Uttar Pradesh,42.52,57.53,33.3,47.05,43.37,15.24,2018,36
+IR-1-P-P-C-30858,Goa College of Pharmacy,Panaji,Goa,41.96,67.63,0.58,65.78,50.99,32.43,2018,37
+IR-1-P-P-C-30768,"College of Pharmacy, Pt. B. D. Sharma, PGIMS",Rohtak,Haryana,41.49,53.79,23.92,58.09,54.72,10.75,2018,38
+IR-1-P-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,Anantapur,Andhra Pradesh,41.39,63.68,4.23,68.43,58.01,15.24,2018,39
+IR-1-P-P-I-1045,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,41.36,58.86,26.02,51.9,49.45,5.72,2018,40
+IR-1-P-P-I-1243,"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,41.3,57.63,9.64,48.44,55.6,58.72,2018,41
+IR-1-P-P-C-33814,Bharati Vidyapeeth`s College of Pharmacy,Navi Mumbai,Maharashtra,41.14,64.96,14.71,46.75,52.54,26.38,2018,42
+IR-4-P-OEMP-U-0491,VELS Institute of Science Technology & Advanced Studies,Chennai,Tamil Nadu,40.83,61.01,21.96,46.33,47.39,19.29,2018,43
+IR-1-P-P-C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,Kamptee,Maharashtra,40.77,64.2,7.78,50.29,55.96,35.16,2018,44
+IR-5-P-OEMLP-U-0270,Devi Ahilya Vishwavidyalaya,Indore,Madhya Pradesh,40.11,55.12,16.88,51.68,46.47,35.16,2018,45
+IR-1-P-P-C-33635,Principal K.M. Kundanani College of Pharmacy,Mumbai,Maharashtra,40.1,56.43,13.68,55.42,53.51,26.38,2018,46
+IR-2-P-OP-U-0162,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,39.74,62.48,20.76,39.96,35.43,32.43,2018,47
+IR-2-P-OP-U-0093,Pt. Ravishankar Shukla University,Raipur,Chhattisgarh,39.61,45.61,31.3,53.76,47.14,10.75,2018,48
+IR-1-P-P-I-1335,Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,38.93,56.67,3.36,56.07,52.52,44.57,2018,49
+IR-4-P-OEMP-U-0373,Chitkara University,Rajpura,Punjab,38.54,55.57,14.02,51.65,54.03,19.29,2018,50
+IR17-PHRM-2-17784,Jamia Hamdard,New Delhi,Delhi,73.64,62.25,90.03,85.45,59.05,49.7,2017,1
+IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research, Mohali",S.A.S. Nagar (Mohali),Punjab,73.18,71.97,80.91,69.53,70.26,63.84,2017,2
+IR17-PHRM-2-18023,University Institute of Pharmaceutical Sciences,Chandigarh,Chandigarh,69.59,68.01,57.93,87.0,90.44,53.75,2017,3
+IR17-PHRM-2-18261,Institute of Chemical Technology,Mumbai,Maharashtra,65.67,75.12,64.44,65.19,60.6,46.98,2017,4
+IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad,Telangana,65.14,88.8,44.84,65.74,77.3,41.71,2017,5
+IR17-PHRM-2-18599,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,64.79,69.09,57.7,75.2,55.81,61.34,2017,6
+IR17-PHRM-1-1-2812279307,Manipal College of Pharmaceutical Sciences,Manipal,Karnataka,59.64,74.94,41.95,56.0,65.21,68.5,2017,7
+IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy, Erandwane, Pune",Pune,Maharashtra,54.69,62.33,39.08,57.71,70.28,57.02,2017,8
+IR17-PHRM-2-1-596,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,54.28,58.35,51.02,58.17,74.65,23.81,2017,9
+IR17-PHRM-1-17445,JSS College of Pharmacy,Mysore,Karnataka,52.83,58.78,31.95,54.39,86.27,61.08,2017,10
+IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,Sagar,Madhya Pradesh,51.13,42.06,63.2,40.57,64.03,50.37,2017,11
+IR17-PHRM-2-1-2811781771,Birla Institute of Technology,Ranchi,Jharkhand,51.09,67.49,43.97,38.74,61.74,37.3,2017,12
+IR17-PHRM-2-1-33,Annamalai University,Annamalainagar,Tamil Nadu,50.91,53.2,62.41,49.88,47.95,14.53,2017,13
+IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences and Research,New Delhi,Delhi,48.44,55.67,22.31,68.27,61.39,52.64,2017,14
+IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy,Mumbai,Maharashtra,47.87,62.57,28.35,48.81,50.39,58.0,2017,15
+IR17-PHRM-2-18406,Nirma University,Ahmedabad,Gujarat,47.57,59.32,33.29,52.74,65.97,26.27,2017,16
+IR17-PHRM-1-17497,JSS College of Pharmacy,Ootacamund,Tamil Nadu,47.13,48.44,25.86,60.67,74.65,52.5,2017,17
+IR17-PHRM-2-1-31,Andhra University,Visakhapatnam,Andhra Pradesh,46.25,48.49,42.54,51.34,60.2,26.52,2017,18
+IR17-PHRM-2-1-661,Sri Ramachandra University,Chennai,Tamil Nadu,45.97,64.04,31.42,31.83,71.07,38.54,2017,19
+IR17-PHRM-2-18508,Banasthali Vidyapith,Banasthali,Rajasthan,45.76,53.1,25.57,73.17,65.64,9.68,2017,20
+IR17-PHRM-1-17804,I.S. F. College of Pharmacy,Moga,Punjab,45.13,47.59,50.59,40.21,57.42,18.86,2017,21
+IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University",Dibrugarh,Assam,45.12,52.26,40.24,56.46,48.3,12.48,2017,22
+IR17-PHRM-1-17207,L. M. College of Pharmacy,Ahmedabad,Gujarat,44.4,65.76,9.59,61.08,56.96,38.72,2017,23
+IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,41.85,55.29,15.24,56.83,57.32,35.86,2017,24
+IR17-PHRM-2-18265,Integral University,Lucknow,Uttar Pradesh,41.57,54.92,32.74,40.78,62.05,9.07,2017,25
+IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences,Guntur,Andhra Pradesh,41.5,47.76,29.61,59.8,57.61,5.69,2017,26
+IR17-PHRM-1-1-2811891107,N.G.S.M.Institute of Pharmaceutical Sciences,Mangalore,Karnataka,40.63,54.3,9.22,52.18,80.96,30.3,2017,27
+IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",Rohtak,Haryana,40.53,50.85,24.79,44.38,67.11,22.45,2017,28
+IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy,Mumbai,Maharashtra,40.37,54.83,17.65,51.98,56.77,25.39,2017,29
+IR17-PHRM-1-1-2809439609,Goa College of Pharmacy,Panaji,Goa,40.01,66.17,1.9,57.14,55.21,26.37,2017,30
+IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya,Indore,Madhya Pradesh,39.2,52.97,16.8,48.27,62.99,23.16,2017,31
+IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",Kopargaon,Maharashtra,38.44,59.98,9.09,53.6,70.0,0.03,2017,32
+IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,38.34,53.18,15.54,39.6,70.0,28.13,2017,33
+IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy,Kamptee,Maharashtra,38.2,63.7,8.93,48.84,62.94,3.49,2017,34
+IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,38.1,67.94,17.87,34.35,45.94,9.02,2017,35
+IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Kolhapur,Maharashtra,37.67,54.35,7.77,44.58,61.5,39.57,2017,36
+IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research,Belagavi,Karnataka,37.61,61.47,13.43,42.63,56.8,9.25,2017,37
+IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,37.53,56.58,18.06,39.27,61.89,10.91,2017,38
+IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences-Solan,Solan,Himachal Pradesh,37.45,46.47,16.88,57.11,48.71,21.56,2017,39
+IR17-PHRM-1-22444,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,37.42,60.63,4.09,43.42,69.48,23.67,2017,40
+IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy,Pune,Maharashtra,37.06,53.03,18.15,41.74,64.01,9.48,2017,41
+IR17-PHRM-1-17092,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,36.93,54.66,12.47,60.46,46.68,0.28,2017,42
+IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,Mumbai,Maharashtra,36.64,50.22,15.85,48.31,49.61,21.98,2017,43
+IR17-PHRM-2-1-216,Guru Jambeshwar University of Science and Technology,Hissar,Haryana,36.59,59.35,25.41,14.44,58.42,24.34,2017,44
+IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research,Wardha,Maharashtra,36.28,52.27,26.25,28.56,65.08,5.11,2017,45
+IR17-PHRM-1-17491,PSG College of Pharmacy,Coimbatore,Tamil Nadu,36.21,53.15,14.0,41.46,69.95,7.7,2017,46
+IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy,Nashik,Maharashtra,36.11,55.37,1.47,54.42,69.38,12.4,2017,47
+IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,36.1,55.93,6.16,45.87,67.21,15.81,2017,48
+IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy,Nagpur,Maharashtra,35.99,61.31,6.77,44.87,65.0,0.98,2017,49
+IR17-PHRM-1-17746,AISSMS College of Pharmacy,Pune,Maharashtra,35.7,53.59,15.65,39.19,63.11,7.66,2017,50
